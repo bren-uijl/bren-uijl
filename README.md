@@ -50,6 +50,7 @@ Give Claude.ai access to everything on the internet - a cool AI integration proj
 - API design and integration
 - Cloud deployment (Render, etc.)
 - AI/ML integrations
+- Monkey c :monkey:?
 
 ## 🎓 Background
 
