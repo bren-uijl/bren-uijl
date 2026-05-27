@@ -25,8 +25,8 @@ Currently, I'm exploring full-stack development, automation, and learning how to
 
 ## 🎯 Featured Projects
 
-### [puter-proxy](https://github.com/bren-uijl/puter-proxy)
-A simple Puter proxy for Render.com - helps with browser automation and remote access.
+### [testing-repo](https://github.com/bren-uijl/testing-repo)
+A testing repo including a bunch tests nobody asked for.
 
 ### [flexcoder](https://github.com/bren-uijl/flexcoder)
 A flexible coding project showcasing automation and development techniques.
@@ -61,7 +61,7 @@ Give Claude.ai access to everything on the internet - a cool AI integration proj
 ## 💡 Fun Facts
 
 - 🧮 Still love programming on my TI-83!
-- 🤖 Interested in AI and automation
+- :copilot: Interested in AI and automation
 - 🚀 Excited about learning new technologies
 - 🎮 Game development experiments
 
